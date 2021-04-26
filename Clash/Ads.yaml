@@ -2,13 +2,3 @@
 # > macbed
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,doubleclick.net
-
-# > 爱阅书香
-DOMAIN-SUFFIX,applovefrom.com
-DOMAIN-SUFFIX,suibyuming.com
-DOMAIN-SUFFIX,umeng.com
-DOMAIN-SUFFIX,umengcloud.com
-DOMAIN-SUFFIX,app-measurement.com
-DOMAIN-SUFFIX,bxmns.com
-HOST,mi.gdt.qq.com
-HOST,v2.gdt.qq.com
