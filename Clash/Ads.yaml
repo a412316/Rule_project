@@ -1,0 +1,14 @@
+# Advertising 广告
+# > macbed
+DOMAIN-SUFFIX,googlesyndication.com,REJECT
+DOMAIN-SUFFIX,doubleclick.net,REJECT
+
+# > 爱阅书香
+DOMAIN-SUFFIX,applovefrom.com,REJECT
+DOMAIN-SUFFIX,suibyuming.com,REJECT
+DOMAIN-SUFFIX,umeng.com,REJECT
+DOMAIN-SUFFIX,umengcloud.com,REJECT
+DOMAIN-SUFFIX,app-measurement.com,REJECT
+DOMAIN-SUFFIX,bxmns.com,REJECT
+HOST,mi.gdt.qq.com,REJECT
+HOST,v2.gdt.qq.com,REJECT
