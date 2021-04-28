@@ -2,3 +2,7 @@
 # > macbed
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,doubleclick.net
+
+# > pcbeta
+DOMAIN,pos.baidu.com
+DOMAIN,cpro.baidustatic.com
